@@ -1,2 +1,1 @@
-# THM-Learning
-Documentation of what i learnt from TryHackMe
+This repository documents my learning in cybersecurity through TryHackMe and self-study.
